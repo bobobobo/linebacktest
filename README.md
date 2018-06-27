@@ -2,8 +2,4 @@
 
 Test
 
-ullberg
-
-kollberg
-
-glenn
+!NOT
