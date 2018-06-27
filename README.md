@@ -8,8 +8,3 @@ fdasfdasf
 !NOT
 
 tut
-tuf
-jklfds
-
- fdas
-fdasfadsfs
