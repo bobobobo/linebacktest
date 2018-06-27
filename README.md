@@ -2,4 +2,4 @@
 te
 Test
 hej 
-!NO
+!NOT
